@@ -1,5 +1,10 @@
+.wrapper{
+    background-color: white;
+}
+
 .properties-container{
     gap: 2rem;
+    
 }
 
 .properties-container .search-bar{
